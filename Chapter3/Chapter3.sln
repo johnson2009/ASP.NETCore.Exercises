@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "配置系统的基本使用", "配置系统的基本使用\配置系统的基本使用.csproj", "{291E7BF1-D9DF-4677-9D93-96FE9A039199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "选项方式读取配置", "选项方式读取配置\选项方式读取配置.csproj", "{BD0B6971-D66D-437F-8430-6740EE1300FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "从命令行读取配置", "从命令行读取配置\从命令行读取配置.csproj", "{02FE9465-DD1C-491E-A4C6-AD9644C0B399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291E7BF1-D9DF-4677-9D93-96FE9A039199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291E7BF1-D9DF-4677-9D93-96FE9A039199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291E7BF1-D9DF-4677-9D93-96FE9A039199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291E7BF1-D9DF-4677-9D93-96FE9A039199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0B6971-D66D-437F-8430-6740EE1300FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0B6971-D66D-437F-8430-6740EE1300FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0B6971-D66D-437F-8430-6740EE1300FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0B6971-D66D-437F-8430-6740EE1300FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FE9465-DD1C-491E-A4C6-AD9644C0B399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FE9465-DD1C-491E-A4C6-AD9644C0B399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FE9465-DD1C-491E-A4C6-AD9644C0B399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FE9465-DD1C-491E-A4C6-AD9644C0B399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F2058B5-E9AF-48A7-9975-55857F1324C6}
+	EndGlobalSection
+EndGlobal
