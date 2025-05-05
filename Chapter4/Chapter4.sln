@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第一个EFCore项目", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF配置DataAnnotations", "EF配置DataAnnotations\EF配置DataAnnotations.csproj", "{DD31D11B-EE3C-412C-AF86-DE132A9A4684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "一对多关系", "一对多关系\一对多关系.csproj", "{598C0912-C754-43F5-9C55-D41FC82E2431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD31D11B-EE3C-412C-AF86-DE132A9A4684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD31D11B-EE3C-412C-AF86-DE132A9A4684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD31D11B-EE3C-412C-AF86-DE132A9A4684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598C0912-C754-43F5-9C55-D41FC82E2431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598C0912-C754-43F5-9C55-D41FC82E2431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598C0912-C754-43F5-9C55-D41FC82E2431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598C0912-C754-43F5-9C55-D41FC82E2431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
