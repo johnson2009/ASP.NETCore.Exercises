@@ -1,0 +1,6 @@
+@第一个WebAPI项目_HostAddress = http://localhost:5267
+
+GET {{第一个WebAPI项目_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

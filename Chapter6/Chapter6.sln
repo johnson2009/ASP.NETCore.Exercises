@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC项目", "MVC项目\MVC项目.csproj", "{70478DCC-D379-424B-84DB-2F66F27CAA34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第一个WebAPI项目", "第一个WebAPI项目\第一个WebAPI项目.csproj", "{692057B8-9CC1-49BE-91DB-60B3AFB7BB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "前后端分离的WebAPI", "前后端分离的WebAPI\前后端分离的WebAPI.csproj", "{24006559-2E10-47C1-9F5E-3766ABACA3DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{70478DCC-D379-424B-84DB-2F66F27CAA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70478DCC-D379-424B-84DB-2F66F27CAA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70478DCC-D379-424B-84DB-2F66F27CAA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692057B8-9CC1-49BE-91DB-60B3AFB7BB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692057B8-9CC1-49BE-91DB-60B3AFB7BB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692057B8-9CC1-49BE-91DB-60B3AFB7BB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692057B8-9CC1-49BE-91DB-60B3AFB7BB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24006559-2E10-47C1-9F5E-3766ABACA3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24006559-2E10-47C1-9F5E-3766ABACA3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24006559-2E10-47C1-9F5E-3766ABACA3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24006559-2E10-47C1-9F5E-3766ABACA3DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
