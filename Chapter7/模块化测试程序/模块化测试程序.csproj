@@ -16,6 +16,7 @@
     <ProjectReference Include="..\Jx.Common.DI\Jx.Common.DI.csproj" />
     <ProjectReference Include="..\Jx.Common\Jx.Common.csproj" />
     <ProjectReference Include="..\服务实现1\服务实现1.csproj" />
+    <ProjectReference Include="..\服务接口\服务接口.csproj" />
   </ItemGroup>
 
 </Project>
