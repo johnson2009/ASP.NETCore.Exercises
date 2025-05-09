@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jx.Common.DI\Jx.Common.DI.csproj" />
+    <ProjectReference Include="..\服务接口\服务接口.csproj" />
+  </ItemGroup>
+
+</Project>
