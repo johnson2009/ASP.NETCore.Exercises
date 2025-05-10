@@ -39,5 +39,13 @@ namespace Jx.Common
 
             return assemblies.ToList();
         }
+
+        //public static List<Assembly> GetSolutionAssemblies(this Assembly asm)
+        //{
+        //    var assemblies = Directory.GetFiles(AppDomain.CurrentDomain.BaseDirectory, "*.dll")
+        //                        .Select(x => Assembly.Load(AssemblyName.GetAssemblyName(x)));
+
+        //    return assemblies.ToList();
+        //}
     }
 }
