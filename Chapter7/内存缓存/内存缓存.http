@@ -1,0 +1,6 @@
+@内存缓存_HostAddress = http://localhost:5089
+
+GET {{内存缓存_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
