@@ -1,0 +1,6 @@
+@操作筛选器_HostAddress = http://localhost:5166
+
+GET {{操作筛选器_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

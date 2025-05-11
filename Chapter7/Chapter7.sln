@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "异常筛选器", "异常�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "内存缓存", "内存缓存\内存缓存.csproj", "{AAAF9C9A-8149-43A0-B930-CD6ECAE0BF8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "操作筛选器", "操作筛选器\操作筛选器.csproj", "{DBCB6CA0-F993-4C73-B47D-0A708FAF2EA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{AAAF9C9A-8149-43A0-B930-CD6ECAE0BF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAAF9C9A-8149-43A0-B930-CD6ECAE0BF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAAF9C9A-8149-43A0-B930-CD6ECAE0BF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCB6CA0-F993-4C73-B47D-0A708FAF2EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB6CA0-F993-4C73-B47D-0A708FAF2EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB6CA0-F993-4C73-B47D-0A708FAF2EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB6CA0-F993-4C73-B47D-0A708FAF2EA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -94,6 +100,7 @@ Global
 		{563AE3AD-C95B-4460-90B0-C443DC33BC0F} = {7FC4E8C7-3B9F-42F6-94CF-A6619CBA5851}
 		{8A1EB18F-B4C7-46BF-B477-554FCEA87C22} = {91E90533-5C52-4A0F-9F35-CBC49508FCCB}
 		{AAAF9C9A-8149-43A0-B930-CD6ECAE0BF8B} = {7FC4E8C7-3B9F-42F6-94CF-A6619CBA5851}
+		{DBCB6CA0-F993-4C73-B47D-0A708FAF2EA6} = {91E90533-5C52-4A0F-9F35-CBC49508FCCB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DD6260C-3EE1-4B89-9CDC-BA47CDEF26FC}
