@@ -1,0 +1,6 @@
+@标识框架_HostAddress = http://localhost:5012
+
+GET {{标识框架_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

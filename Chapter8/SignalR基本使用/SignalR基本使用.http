@@ -1,0 +1,6 @@
+@SignalR基本使用_HostAddress = http://localhost:5091
+
+GET {{SignalR基本使用_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

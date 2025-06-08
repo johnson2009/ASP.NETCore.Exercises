@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "标识框架", "标识框架\标识框架.csproj", "{D0532633-FCE5-464C-AC51-803FEF59A55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "生成JWT令牌", "生成JWT令牌\生成JWT令牌.csproj", "{81A7AF7D-0C18-4B50-ACE6-47E1318A6D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "解码JWT令牌", "解码JWT令牌\解码JWT令牌.csproj", "{EEA9CD76-EFC8-406D-AE03-5608DFA0F262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCore_JWT", "ASPNetCore_JWT\ASPNetCore_JWT.csproj", "{D84F7B1D-D9A3-439B-81DA-FD86516E116A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR基本使用", "SignalR基本使用\SignalR基本使用.csproj", "{2BB21AC2-1CEB-439E-8454-5881A900F191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "托管服务", "托管服务\托管服务.csproj", "{40FC9C8B-F5CA-4C03-99D1-785B17A4238D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0532633-FCE5-464C-AC51-803FEF59A55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0532633-FCE5-464C-AC51-803FEF59A55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0532633-FCE5-464C-AC51-803FEF59A55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0532633-FCE5-464C-AC51-803FEF59A55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A7AF7D-0C18-4B50-ACE6-47E1318A6D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A7AF7D-0C18-4B50-ACE6-47E1318A6D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A7AF7D-0C18-4B50-ACE6-47E1318A6D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A7AF7D-0C18-4B50-ACE6-47E1318A6D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA9CD76-EFC8-406D-AE03-5608DFA0F262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA9CD76-EFC8-406D-AE03-5608DFA0F262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA9CD76-EFC8-406D-AE03-5608DFA0F262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA9CD76-EFC8-406D-AE03-5608DFA0F262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84F7B1D-D9A3-439B-81DA-FD86516E116A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84F7B1D-D9A3-439B-81DA-FD86516E116A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84F7B1D-D9A3-439B-81DA-FD86516E116A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84F7B1D-D9A3-439B-81DA-FD86516E116A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB21AC2-1CEB-439E-8454-5881A900F191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB21AC2-1CEB-439E-8454-5881A900F191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB21AC2-1CEB-439E-8454-5881A900F191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB21AC2-1CEB-439E-8454-5881A900F191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FC9C8B-F5CA-4C03-99D1-785B17A4238D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FC9C8B-F5CA-4C03-99D1-785B17A4238D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FC9C8B-F5CA-4C03-99D1-785B17A4238D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FC9C8B-F5CA-4C03-99D1-785B17A4238D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
